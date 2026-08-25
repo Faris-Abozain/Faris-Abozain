@@ -10,10 +10,10 @@
   <a href="https://github.com/Faris-Abozain">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[www.linkedin.com/in/fares-abozein](https://www.linkedin.com/in/fares-abozein/)">
+  <a href="https://www.linkedin.com/in/fares-abozein">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[faresabozein@gmail.com](https://mail.google.com/mail/u/0/#inbox)">
+  <a href="faresabozein@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
