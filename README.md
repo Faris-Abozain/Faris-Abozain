@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/fares-abozein">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="faresabozein@gmail.com">
+  <a href="https://mail.google.com/mail/faresabozein@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
